@@ -6,6 +6,7 @@ let catogrey_right  = document.querySelector('.fa-chevron-right');
 let catogrey_left   = document.querySelector('.fa-chevron-left');
 let close_2         = document.querySelector('.fa-close_2');
 let start_img_num;
+let _y;
 let images_data     = [
 
     '../images/Portoflio/1.jpg',
