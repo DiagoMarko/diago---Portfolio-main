@@ -14,6 +14,7 @@ let links                   = document.querySelectorAll('a');
 let inputs                  = document.querySelectorAll('input');
 let textarea                = document.querySelectorAll('textarea');
 let imgs                    = document.querySelectorAll('img');
+let _yx;
 
 //------------------ Show || List || Function || End --------------->
 
